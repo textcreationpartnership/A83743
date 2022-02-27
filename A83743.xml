@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the House of Commons assembled in the Parliament of England at Westminster, to the right honorable and right reverend, the lords, ministers and others of the present General Assembly of the Church of Scotland sitting at Edenburgh [sic], containing a narrative of the proceedings of the Parliament of England in the work of reformation ... and of their endeavors for settlement of peace, and for preservation of the union between the two kingdoms of England and Scotland.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83743</idno>
+            <idno type="STC">Wing E2621A</idno>
+            <idno type="STC">ESTC R230887</idno>
+            <idno type="EEBO-CITATION">47683430</idno>
+            <idno type="OCLC">ocm 47683430</idno>
+            <idno type="VID">172896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172896)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2655:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the House of Commons assembled in the Parliament of England at Westminster, to the right honorable and right reverend, the lords, ministers and others of the present General Assembly of the Church of Scotland sitting at Edenburgh [sic], containing a narrative of the proceedings of the Parliament of England in the work of reformation ... and of their endeavors for settlement of peace, and for preservation of the union between the two kingdoms of England and Scotland.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>Church of Scotland.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the honorable House of Commons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Document signed on p. 14: "H. Elsynge, Cler. Parl. D. Com."</note>
+                  <note>Reproduction of original in: Eton College. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  History.</term>
+               <term>Reformation --  England.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  The Union, 1707.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:172896:1" rendition="simple:additions"/>
+A LETTER FROM The Houſe of Commons aſſembled in THE Parliament of <hi>ENGLAND</hi> at WESTMINTER, To the Right Honorable and Right Reverend, THE Lords, Miniſters and others of the preſent <hi>GENERAL ASSEMBLY</hi> of the Church of <hi>Scotland</hi> ſitting at <hi>Edenburgh,</hi>
+            </p>
+            <p>CONTAINING A NARRATIVE OF The Proceedings of the Parliament of <hi>England</hi> in the Work of Reformation, and of their Reſolutions to maintain the Govern<g ref="char:EOLhyphen"/>ment of the Kingdom eſtabliſhed by Law, and of their En<g ref="char:EOLhyphen"/>deavors for Settlement of Peace, and for Preſervation of the Union between the two Kingdoms of <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons. 1648.</p>
+            <pb facs="tcp:172896:2"/>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:172896:2"/>
+            <head>For the Right Reverend, Mr. <hi>George Gillespy,</hi> Moderator of the General Aſ<g ref="char:EOLhyphen"/>ſembly of the Church of <hi>Scotland</hi> at EDENBURGH.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am commanded by the Commons aſ<g ref="char:EOLhyphen"/>ſembled in the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to ſend you the incloſed Pa<g ref="char:EOLhyphen"/>pers, which they deſire you to com<g ref="char:EOLhyphen"/>municate from them unto the Right Honorable and Right Reverend, the Lords, Miniſters and others of the preſent General Aſ<g ref="char:EOLhyphen"/>ſembly of the Church of <hi>Scotland,</hi> or to their Commiſsioners; which being all I have in Com<g ref="char:EOLhyphen"/>mand, I ſhall only adde, that I am,</p>
+            <closer>
+               <signed>Sir, Your very loving Friend, <hi>WILLIAM LENTHAL, Speaker.</hi>
+               </signed>
+               <dateline>Weſtminſter, <date>
+                     <hi>Auguſt</hi> 3. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:172896:3"/>
+            <p>
+               <seg rend="decorInit">W</seg>E the Commons aſſembled in the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> taking it into our con<g ref="char:EOLhyphen"/>ſideration, That however the late poſ<g ref="char:EOLhyphen"/>ſeſſing of <hi>Berwick</hi> and <hi>Carlile,</hi> and the coming of the Scotiſh Army and Forces into this Kingdom, be moſt notorious and unparalleld Breaches of the Solemn League and Covenant, and the many Treaties, National Agreements, and Acts of Parliament paſſed both in <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>Yet, becauſe we are aſſured theſe impious and unwarrantable Actions cannot be done with the Approbation and Conſent of the Religious and Well-affected people of the Kingdom of <hi>Scotland;</hi> and that we underſtand there are very few amongſt theſe who are in this Ingagement againſt us, that firſt ingaged with us in the Covenant and Cauſe, but ſuch as have been profeſſed Enemies to them, however they be now content to pretend there<g ref="char:EOLhyphen"/>unto, that they may the better deceive the people of this Kingdom: We are unwilling to impute ſuch Evils to the Nation in general, but to thoſe perſons that own and appear in them, whom we are confident, God (that hath ſtill ſo remarkably manifeſted his diſpleaſure againſt Truce-breakers)
+<pb n="5" facs="tcp:172896:3"/>
+in his due time will judge, whatever we may ſuffer in the mean while.</p>
+            <p>Therefore we now ſend to you, that it may ap<g ref="char:EOLhyphen"/>pear we will not by any provocation be induced to withdraw our ſelves from thoſe in <hi>Scotland</hi> who retain their former Principles, and ſtill own the Cauſe wherein we have (with bleſſing from hea<g ref="char:EOLhyphen"/>ven) been ſo long engaged and ſolemnly United.</p>
+            <p>And becauſe the Enemies thereof have been very induſtrious in proſecuting a Deſign to hinder the Work of Reformation in this Kingdom, by raiſing many Scandals and Reproaches upon us; and by unworthy Inſinuations of our Ends and Intentions, and falſe Repreſentations of our Acti<g ref="char:EOLhyphen"/>ons and Proceedings, which they have framed ſutable to the ſeveral preſent ſtirring Diſtempers, the better to foment Diſcontents in all ſorts of people againſt us; charging us, That we do not intend any thing in the Work of Reformation (though they do more malign what we have done already, then deſire we ſhould do more) That we have a purpoſe to alter the Government of the Kingdom, That we are Enemies to Peace, and to the Union of the Kingdoms, and ſuch like. There<g ref="char:EOLhyphen"/>fore, That by ſuch practices neither you may be abuſed, nor we further wronged, We have thought fit for our own neceſſary vindication, to give you (in the firſt place) a ſhort view, how far (through the aſſiſtance of Almighty God, to whom alone be the glory) the two Houſes of Par<g ref="char:EOLhyphen"/>liament have proceeded in the work of Reforma<g ref="char:EOLhyphen"/>tion,
+<pb n="6" facs="tcp:172896:4"/>
+notwithſtanding the oppoſition of the Ene<g ref="char:EOLhyphen"/>mies to Truth, and the great dangers and difficul<g ref="char:EOLhyphen"/>ties which have been raiſed, to hinder them, by the force and power, Plots and Deſigns of the Popiſh, Prelatical and Malignant party in this Kingdom, with whom the Scotiſh Army are now joyned in Forces and Counſels.</p>
+            <p>It is very well known how great a party in this Kingdom were ingaged for upholding of Pre<g ref="char:EOLhyphen"/>lacy, yet they, notwithſtanding all diſcourage<g ref="char:EOLhyphen"/>ments and hazards to themſelves, have taken away and extirpated that Government, ſo diſ<g ref="char:EOLhyphen"/>agreeable to what is practiced in other Reformed Churches, and prejudicial to the power of God<g ref="char:EOLhyphen"/>lineſs.</p>
+            <p>And becauſe the peace of the Church, and power of Religion cannot long continue without good Order and Diſcipline eſtabliſht therein, they called an Aſſembly of Godly, Learned, and Or<g ref="char:EOLhyphen"/>thodox Divines from all parts of the Kingdom, with whom ſome Commiſſioners of the Church of <hi>Scotland</hi> joyned, to ſit at <hi>Weſtminſter;</hi> and after Conſultation had with them, Both Houſes took away the Service-Book, commonly called <hi>The Book of Common-Prayer,</hi> and eſtabliſht <hi>A Directory for Worſhip,</hi> commanding the practice of it in all the Churches and Chappels of this Kingdom: And, in ſtead of Epiſcopacy they have ſet up Preſ<g ref="char:EOLhyphen"/>byterial Government in the Church, which is al<g ref="char:EOLhyphen"/>ready ſetled in many parts of the Kingdom, and do (by Gods aſsiſtance) reſolve to purſue the further
+<pb n="7" facs="tcp:172896:4"/>
+perfecting and eſtabliſhment of it in all parts, both in <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>They</hi> have approved and paſſed <hi>The Confeſsion of Faith</hi> (or <hi>Articles of Chriſtian Religion)</hi> as it came from the Aſſembly of Divines, with ſome ſmall Alterations (onely ſome ſmall part is yet un<g ref="char:EOLhyphen"/>der conſideration) the reſt being printed and pub<g ref="char:EOLhyphen"/>liſhed by Authority of Parliament.</p>
+            <p>
+               <hi>They</hi> have paſſed a greater and leſs <hi>Catechiſm</hi> that came from the Aſſembly of Divines.</p>
+            <p>
+               <hi>They</hi> have taken away all Superſtitious Cere<g ref="char:EOLhyphen"/>monies and Popiſh Innovations.</p>
+            <p>
+               <hi>They</hi> have given Authority for the Demoliſh<g ref="char:EOLhyphen"/>ing of all Repreſentations of any Perſons of the Trinity, Saint or Angel, and taking away all Altars, Croſſes, Crucifixes, Pictures, and all other Monuments of Idolatry and Superſtition in any Church, Chappel or Place within this King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>
+               <hi>They</hi> have paſſed an Ordinance for the puniſh<g ref="char:EOLhyphen"/>ing of Blaſphemies and Hereſies.</p>
+            <p>
+               <hi>They</hi> have paſſed an Ordinance for the Eject<g ref="char:EOLhyphen"/>ing of Scandalous Miniſters and Schoolmaſters; and thereupon have removed many, in whoſe ſtead they have placed godly and able Men.</p>
+            <p>
+               <hi>They</hi> have paſſed an Ordinance, That none ſhall enter into the work of the Miniſtry, but ſuch as are Ordained thereto.</p>
+            <p>
+               <hi>They</hi> have given all the Incouragement, and made the beſt proviſion they could for the mainte<g ref="char:EOLhyphen"/>nance of a godly Preaching Miniſtry through the
+<pb n="8" facs="tcp:172896:5"/>
+Kingdom, not onely in removing the Ignorant and Scandalous, but in augmenting Maintenance for painful Miniſters, both out of the Impropriations of Biſhops, the Eſtates and Revenues of Deans and Chapters, and out of the Impropriations of Delinquents, which they bought out and ſetled upon Churches that wanted maintenance, to a very great value.</p>
+            <p>
+               <hi>They</hi> have purged the Univerſities and chief Schools of the Kingdom (which are the Semina<g ref="char:EOLhyphen"/>ries of Learning, and Education of Youth) of ma<g ref="char:EOLhyphen"/>ny Heads of Houſes, Fellows and Schollers as were Superſtitious, Prelatical and Malignant, and have placed in their ſtead ſuch as are well-affected to Reformation of Religion, and Uniformity with other Reformed Churches.</p>
+            <p>
+               <hi>They</hi> have paſſed ſeveral Ordinances for the bet<g ref="char:EOLhyphen"/>ter Obſervation of the Lords day, and days of publique Faſt and Thankſgiving, and have con<g ref="char:EOLhyphen"/>demned all Licentious practices upon thoſe days; and have ordered the Books formerly written in favour of them, to be publiquely burnt.</p>
+            <p>
+               <hi>They</hi> have ſuppreſſed all Stage-Plays and In<g ref="char:EOLhyphen"/>terludes (the Nurſeries of Vice and Prophane<g ref="char:EOLhyphen"/>neſs.)</p>
+            <p>And although we muſt needs ſay, That the greateſt let and impediment which we have met with in ſetling the Reformation of Religion (ac<g ref="char:EOLhyphen"/>cording to the Covenant) hath come from His Majeſty, who by His refuſing hitherto to grant our Deſires for the taking away of Epiſcopacy and the
+<pb n="9" facs="tcp:172896:5"/>
+Service-Book, and to ſettle the Directory for Worſhip, and Presbyterial Government; and by denying his concurrence to eſtabliſh them by Act of Parliament, hath given great occaſion to men of unſound Judgements, to ſpread their Opini<g ref="char:EOLhyphen"/>ons and Errors (which is not unuſual in times of Reformation) when the ſettling of it is long delayed.</p>
+            <p>And further, by his declaring in his late Meſ<g ref="char:EOLhyphen"/>ſage from the Iſle of <hi>Wight,</hi> That he thinks him<g ref="char:EOLhyphen"/>ſelf obliged both as a Chriſtian and as a King, to employ whatever power God ſhall put in his hand for the upholding of Epiſcopacy, he hath given great encouragement to the Popiſh, Malignant and Prelatical party to endeavor by Plots and Deſigns, and now again by open force, the reintroducing of Epiſcopacy and the Service-Book, which by the Conjunction of the Scotiſh Army with their Forces, they have now great hopes to effect; yet (by Gods aſſiſtance who hath helped us hither<g ref="char:EOLhyphen"/>to) it ſhall be our care and endeavor againſt all dangers and diſcouragements whatſoever, to pro<g ref="char:EOLhyphen"/>ceed in the work of Reformation until it be per<g ref="char:EOLhyphen"/>fected.</p>
+            <p>For other things wherewith we are commonly aſperſed; as, That we ſhould have intentions to al<g ref="char:EOLhyphen"/>ter the Fundamental Government of this King<g ref="char:EOLhyphen"/>dom; both Houſes have endeavored ſo to ſtop the mouth of malice by declaring ſeveral times for<g ref="char:EOLhyphen"/>merly, and of late the 26. of <hi>May,</hi> That they will not alter the Government by <hi>King, Lords</hi> and
+<pb n="10" facs="tcp:172896:6"/>
+               <hi>Commons,</hi> that we ſhall need to ſay no more of it.</p>
+            <p>And for our deſires of Peace, our ſeven ſeveral Ad<g ref="char:EOLhyphen"/>dreſſes to the King, with Propoſitions for a ſafe and well grounded Peace, will ſufficiently ſpeak for us: And although the ſeveral denials which we have received from his Majeſty formerly, and the pre<g ref="char:EOLhyphen"/>ſent preparations for War by the Malignant party of both Kingdoms under pretence of Peace, might wholly diſcourage us, yet we (notwithſtand<g ref="char:EOLhyphen"/>ing all the hazards that may attend it) now again agreed to try whether a Peace can be ſettled by a Treaty with his Majeſty in the Iſle of <hi>Wight,</hi> upon the Propoſitions preſented to him at <hi>Hampton-Court,</hi> wherein we ſhall (by the help of God) ap<g ref="char:EOLhyphen"/>prove our ſelves ſuch as are both deſirous of a firm Peace, and mindeful of the truſt repoſed in us by the people of this Kingdom, for the ſecuring of Religion and their Liberties.</p>
+            <p>As for our deſires to preſerve the Union and Brotherly Agreement betwixt the Kingdoms, we ſhall not here ſay much about it, becauſe the whole Tranſaction betwixt our Commiſsioners and the Parliament, and Committee of Eſtates of <hi>Scotland</hi> will be printed, wherein it will appear what was offered, in order to give them real ſatisfaction in our Engagements to them for the Service of their Armies in <hi>England</hi> and <hi>Ireland,</hi> to which we could never get any Anſwer; and what they demanded in the name and by the command of both Houſes, from the Parliament and Committee of Eſtates of
+<pb n="11" facs="tcp:172896:6"/>
+               <hi>Scotland,</hi> concerning ſeveral Engliſh Delinquents and Incendiaries then in <hi>Scotland,</hi> which by Treaties and Acts of Parliament paſſed in both Kingdoms, ought to have been delivered to be tryed in the Kingdom of <hi>England;</hi> but in ſtead of giving them up, they were countenanced and incouraged, con<g ref="char:EOLhyphen"/>ſulted and agreed with to ſeize and hold the Towns of <hi>Berwick</hi> and <hi>Carliſle</hi> in the Kingdom of <hi>England,</hi> which by Acts of Parliament, and ſeveral Treaties and Agreements of both Kingdoms, were not to be gariſoned without the conſent of both Parliaments.</p>
+            <p>And when in purſuance of thoſe Treaties and Agreements, our Commiſsioners did declare thoſe Traytors and Enemies to this Kingdom that had Gariſoned them, and required the like De<g ref="char:EOLhyphen"/>claration from the Parliament and Committee of Eſtates of <hi>Scotland,</hi> it would not be aſſented unto, although very often preſſed; but in ſtead thereof, all maner of Proviſions were ſent unto them, and the Commanders in thoſe Gariſons (though many of them notorious Papiſts) had much freedom and countenance to their proceedings by perſons of eminent power in <hi>Scotland;</hi> whereas notwithſtand<g ref="char:EOLhyphen"/>ing we had notice there was ſome deſign for ſeizing theſe Towns, which might have been prevented by our timely putting Forces into them, yet to avoid the guilt of breach of Treaties, we rather reſolved to run the hazard which did enſue, then to bring that imputation upon our ſelves: And now it ap<g ref="char:EOLhyphen"/>pears, theſe Towns were but taken in truſt to be delivered to the Scotiſh Forces, who however
+<pb n="12" facs="tcp:172896:7"/>
+they do publiquely declare for Religion and the Covenant, yet the Papiſts and Delinquents, not onely in <hi>Berwick</hi> and <hi>Carliſle,</hi> but in other parts of the Kingdom, who are profeſſed Enemies to Re<g ref="char:EOLhyphen"/>ligion and the Covenant, and do kill, plunder and purſue thoſe who have been faithful in them, are ſo well ſatisfied of their ends and intentions, that they joyn and hazard their lives and fortunes with them.</p>
+            <p>Whilſt theſe forementioned Councels and Com<g ref="char:EOLhyphen"/>pliances were thus on foot in <hi>Scotland</hi> with thoſe that are declared Enemies to the Peace of this King<g ref="char:EOLhyphen"/>dom, and the grounds of the Union of both Kingdoms; The Parliament of <hi>Scotland</hi> did ſend us a Paper of Deſires, dated the 26 of <hi>April</hi> laſt, which in the Letter wherein they were incloſed are called Demands, that implies a right which upon examination will not be found; yet the Houſes were ſo deſirous to give the Parliament of <hi>Scotland</hi> all poſſible ſatisfaction, that they did not take ex<g ref="char:EOLhyphen"/>ception thereunto, nor to the perſon by whom they were ſent, who was accuſed before them for en<g ref="char:EOLhyphen"/>deavoring the Revolt of the Forces under the Lord <hi>Inchiquin</hi> in <hi>Ireland,</hi> which then had happened; Nor did they inſiſt upon the firſt granting of their aforeſaid juſt Demands made to the Parliament and Committee of Eſtates of <hi>Scotland,</hi> but perceiving ſo ſtrange an Alteration in <hi>Scotland,</hi> they judged it fit for them to try in the firſt place, whether <hi>Scotland</hi> would own the Cauſe wherein we had both been engaged; And therefore (after our Commiſſioners
+<pb n="13" facs="tcp:172896:7"/>
+had acquainted the Committee of Eſtates with our Declaration of the 6 of <hi>May</hi> laſt, concerning our full Reſolutions to maintain and preſerve inviola<g ref="char:EOLhyphen"/>bly the Solemn League and Covenant, and Trea<g ref="char:EOLhyphen"/>ties betwixt the Kingdoms) they did return An<g ref="char:EOLhyphen"/>ſwer to this purpoſe, That we did offer to joyn with the Parliament of <hi>Scotland</hi> in the Propoſi<g ref="char:EOLhyphen"/>tions preſented to the King at <hi>Hampton-Court,</hi> and in making ſuch further proceedings thereupon as ſhould be thought fit for the ſpeedy Settlement of the Peace of both Kingdoms, and preſervation of the Union, according to the Covenant and Trea<g ref="char:EOLhyphen"/>ties; And when we ſhould receive their Anſwer thereunto, the Houſes would be ready to give fur<g ref="char:EOLhyphen"/>ther ſatisfaction in thoſe things which ſhould not intrench upon the particular Intereſts of the King<g ref="char:EOLhyphen"/>dom, and Priviledges of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> But to theſe, all the Anſwer our Commiſ<g ref="char:EOLhyphen"/>ſioners could obtain from the Parliament or Com<g ref="char:EOLhyphen"/>mittee of Eſtates of <hi>Scotland,</hi> was, That they could return us no Anſwer, till juſt ſatisfaction were given to their Deſires of the 26. of <hi>April.</hi>
+            </p>
+            <p>Afterwards we agreed upon a Perſonal Treaty with the Kings Majeſty upon the Propoſitions, (He firſt conſenting to three Propoſitions, which in ſub<g ref="char:EOLhyphen"/>ſtance He had granted in former Meſſages) And the Houſes ſent to the Committee of Eſtates, that <hi>Scotland</hi> would joyn with them, and that they would prepare ſuch Propoſitions as they thought fit for that Kingdom: But to this neither we nor our Commiſſioners received any Anſwer, until a Scotiſh
+<pb n="14" facs="tcp:172896:8"/>
+Army had invaded this Kingdom, and then it was ſent with a Declaration; of which we will ſay no more in this place, but that conſidering they were bound by Treaties and Act of Parliament to give us three moneths warning before their making War with us, it had been more Honorable that their Declaration had rather come before, then follow<g ref="char:EOLhyphen"/>ed after their Army.</p>
+            <p>By all which, and by their vigorous purſuing the raiſing of their Army, before they ſent their deſires, and ever after, before they knew what Anſwer would be returned to them by the Houſes, it doth appear, That this invaſion was intended and re<g ref="char:EOLhyphen"/>ſolved upon, let us ſay or do what we would; wherein they have too little conſidered how many obligations did lie upon them to the contrary; how much this their Engagement tends to the utter ruine of poor <hi>Ireland,</hi> who by their drawing away ſo many of the Britiſh and other Forces to joyn with them, and diſinabling us to ſend them relief, is expoſed to eminent hazard; how much to the diſhonor and danger of the Reformed Religion in all Chriſtendom, and how highly the God of Truth and Peace is provoked by it; which evils ſeeing we have on our parts ſo much labored to prevent, we doubt not but God will be with us, and the prayers of his people for us; And that thoſe who have dealt falſly in ſtriking hands with the common Enemy, to kindle a new fire betwixt theſe Kingdoms, ſhall themſelves periſh therein.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172896:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
